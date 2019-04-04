@@ -1,6 +1,7 @@
 # tutorial for dependency tree
 Tutorial_4_Dependency_tree
 
+Tutorial File:《基于StanfordCoreNLP的依存树分析实验》
 This tutorial is prpared by Xinzhi Yao.
 
 ****************************************
